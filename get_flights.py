@@ -8,7 +8,7 @@ params = {
 api_result = requests.get('http://api.aviationstack.com/v1/flights', params)
 
 api_response = api_result.json()
-# print (api_response)
+print (api_response)
 
 for flight in api_response['data']:
     if 'airline' in flight:
