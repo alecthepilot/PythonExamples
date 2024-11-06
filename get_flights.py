@@ -1,7 +1,7 @@
 import requests
 
 params = {
-  'access_key': 'd14f13ec95b82eece6a7261df82a28b0',
+  'access_key': '',
   'dep_icao': 'EGKK',
 }
 
