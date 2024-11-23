@@ -7,4 +7,4 @@ PythonConstructs.py: shows example of various Python coding constructs e.g. if, 
 
 get_flights.py: queries an API to obtain flight information for Gatwick Airport
 
-for i loop: prints "hello github 100 times as its part of a for loop
+for i loop.py: prints "hello github" 100 times as its part of a for loop
