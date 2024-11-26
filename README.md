@@ -1,7 +1,5 @@
 
-This is my Python examples project
-
-This README describes what each Python example file does. 
+## This is my Python examples project
 
 PythonConstructs.py: shows example of various Python coding constructs e.g. if, sequence, loops.
 
